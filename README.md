@@ -12,7 +12,7 @@ Cleaned and transformed a real-world dataset with missing values, inconsistent f
 Converted variables into usable formats and performed exploratory analysis to identify patterns across countries.
 
 ---
-## Interest Rates & Stock Return Predictability (PCA)
+## 3. Interest Rates & Stock Return Predictability (PCA)
 Analyzed whether Treasury yield curve movements can predict S&P 500 returns using principal component analysis (PCA) and regression models.  
 Found that predictive power is extremely limited, supporting the efficient market hypothesis.
 
